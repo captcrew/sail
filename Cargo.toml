@@ -1,0 +1,17 @@
+[package]
+name = "sail"
+version = "0.1.0"
+description = "A lightweight, fast torrent streaming application."
+authors = ["Captain & Crew <arrrg@captcrew.io>"]
+maintainers = ["Captain & Crew <arrrg@captcrew.io>"]
+repository = "https://github.com/captcrew/sail"
+license = "GPL-3.0-or-later"
+readme = "README.md"
+edition = "2018"
+published = "false"
+
+[dependencies]
+
+
+[dev-dependencies]
+tracing = "0.1.22"
